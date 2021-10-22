@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
     "modellist":[
         {
@@ -12,19 +11,4 @@
         }
     ]
 
-=======
-{
-    "modellist":[
-        {
-        "location":"models/mmd/kizunaai/kizunaai.pmx"
-        },
-        {
-        "location":"models/mmd/るいのれ式物述有栖_配布用フォルダ/物述有栖.pmx"
-        },
-        {
-        "location":"models/mmd/『天宮こころ(Kokoro Amamiya)』/『天宮こころ(Kokoro Amamiya)』.pmx"
-        }
-    ]
-
->>>>>>> a3d03e90e34835ff73d0a265baad24284a1fb517
 }
